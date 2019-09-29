@@ -1,0 +1,6 @@
+Python API Challange: Observations
+
+1) Max Temp observed around +- 20 lattitude of equator,it start to drop as you move away from equator.
+2) % Cloudiness dosen't seems to be related to latitude.
+3) Wind speed dosnt't seems to be related to latitude.
+4) % Humidity seems high near equator but we could not draw strong relation based on data.
